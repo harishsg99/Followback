@@ -11,8 +11,7 @@
 
 
 
-## 📷 Demo (zoom in to see better)
-
+## 📷 Screenshots
  ![test](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-103804_ChatSnap.jpg)
  
  ![wht](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-154130_FollowBack.jpg)
