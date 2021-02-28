@@ -13,12 +13,12 @@
 
 ## 📷 Demo (zoom in to see better)
 
- ![gifgif](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-103804_Followback.jpg) 
+ ![test](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-103804_Followback.jpg =100x20)
  
- ![wht](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-154130_FollowBack.jpg)
+ ![wht](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-154130_FollowBack.jpg =100x20)
  
- ![mailz](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-174534_FollowBack.jpg)
-
+ ![mailz](https://github.com/harishsg99/Followback/blob/main/imgs/Screenshot_20210220-174534_FollowBack.jpg =100x20)
+ 
  
 
 ## 💻 Meet the maker
