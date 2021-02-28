@@ -1,5 +1,5 @@
 
-- **FollowBack** An AR powered Social media app with short videos support 
+- **FollowBack** An AR powered Snapchat clone with short videos support 
 
 ## 🔧 Features
 
